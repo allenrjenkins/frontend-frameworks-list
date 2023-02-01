@@ -5,6 +5,8 @@ The greatest list ever made on the internet of the most searched for, used, and 
 ## Original 
 
 - https://vuejs.org/
+- https://reactjs.org/
+- https://angularjs.org/
 - https://getbootstrap.com/
 - https://purecss.io/
 - https://semantic-ui.com/
